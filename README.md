@@ -16,6 +16,7 @@ Get ink (🌢) which provides one of the following options - level up (get encha
 
 Get paper (🗏) to heal 5 hp
 
+Shield will negate collision and protect from anything other than getting out of the screen
 
 
 ## Sample play ►
@@ -28,15 +29,15 @@ An ability jump-to-avoid game inspired by Minecraft.
 
 Avoid various types of obstacles and unlock special books with unique abilities, and collect all the Enchantments!
 
-A new obstacle is added every 50 points. 
+A new obstacle is added every 20 points. 
 
-Achieve 500 points and safely retrieve your enchantment!
+Achieve 300 points and safely retrieve your enchantment!
 
 
 
 ## Enchants  ﾟ₊˚
 
-Sharpness (5), Protection (4), Unbreaking (3), Efficiency (5),Fortune (3), Power (5), Looting (3), Knockback (2), Feather Fall (4), Mending, Silk Touch, Infinity
+Sharpness (5), Protection (4), Unbreaking (3), Efficiency (5),Fortune (3), Power (5), Looting (3), Knockback (2), Feather Fall (4), Mending, Silk Touch, Infinity, Respiration (3)
 
 
 
